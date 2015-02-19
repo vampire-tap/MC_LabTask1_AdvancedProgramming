@@ -1,0 +1,2 @@
+# MC_LabTask1_AdvancedProgramming
+Simple Matrix Calculator
